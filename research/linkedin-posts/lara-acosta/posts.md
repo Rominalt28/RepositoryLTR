@@ -7,10 +7,11 @@
 
 ## Post 1
 **Date:** 2026-06-03
-**URL:** 	https://www.linkedin.com/posts/laraacostar_i-grew-to-340k-followers-on-linkedin-by-posting-ugcPost-7465716158055272448-m1of?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpd39ABmQWBqStkqB1pXQ7TdIr9RLwtB0k
+**URL:** https://www.linkedin.com/posts/laraacostar_i-grew-to-340k-followers-on-linkedin-by-posting-ugcPost-7465716158055272448-m1of/
+
 **Why selected:** Framework to grow organically on Linkedin.
 
-[I grew to 340k followers on LinkedIn by posting 4x/week.
+I grew to 340k followers on LinkedIn by posting 4x/week.
 
 You don't need to post daily here to grow.
 The new LinkedIn algorithm updates also show that.
@@ -33,16 +34,17 @@ I put a short (and free) LinkedIn guide for you to use here: https://lnkd.in/eP6
 
 Watch the video to see how I broke it down LIVE. 
 
-PS: Tell me which part of writing content you struggle with the most!]
+PS: Tell me which part of writing content you struggle with the most!
 
 ---
 
 ## Post 2
 **Date:** 2026-05-24
-**URL:** 	https://www.linkedin.com/posts/laraacostar_i-keep-on-saying-this-repeat-yourself-please-activity-7460651322695028736-xuGa?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpd39ABmQWBqStkqB1pXQ7TdIr9RLwtB0k
+**URL:** https://www.linkedin.com/posts/laraacostar_i-keep-on-saying-this-repeat-yourself-please-activity-7460651322695028736-xuGa/
+
 **Why selected:** Consistency builds reputation on Linkedin.
 
-[I keep on saying this. Repeat yourself, please. 
+I keep on saying this. Repeat yourself, please. 
 
 This is how you grow a following. 
 This is how you become a thought leader.
@@ -70,16 +72,17 @@ I just opened my LinkedIn accelerator (closes in 2 days).
 
 4 weeks of live coaching. 5 calls a week. All resources.
 
-Join here: https://lnkd.in/evc_cVyd]
+Join here: https://lnkd.in/evc_cVyd
 
 ---
 
 ## Post 3
 **Date:** 2026-05-24
-**URL:** https://www.linkedin.com/posts/laraacostar_if-you-want-high-ticket-clients-from-your-share-7454839644791402497-rRVa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpd39ABmQWBqStkqB1pXQ7TdIr9RLwtB0k
+**URL:** https://www.linkedin.com/posts/laraacostar_if-you-want-high-ticket-clients-from-your-share-7454839644791402497-rRVa/
+
 **Why selected:** Fundamental rules to get high-ticket clients on Linkedin.
 
-[If you want high-ticket clients from your LinkedIn...
+If you want high-ticket clients from your LinkedIn...
 
 You don't need to understand the "new" algorithm.
 You need to understand content and conversion instead. 
@@ -106,6 +109,6 @@ Worry about the impression you make instead.
 
 It's time to become a thought leader. 
 
-PS: How often do you promote your offer on Linkedin? Tell me below! ]
+PS: How often do you promote your offer on Linkedin? Tell me below! 
 
 ---
