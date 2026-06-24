@@ -7,6 +7,7 @@
 
 ## Post 1
 **Date:** 2026-06-03
+
 **URL:** https://www.linkedin.com/posts/laraacostar_i-grew-to-340k-followers-on-linkedin-by-posting-ugcPost-7465716158055272448-m1of/
 
 **Why selected:** Framework to grow organically on Linkedin.
@@ -40,6 +41,7 @@ PS: Tell me which part of writing content you struggle with the most!
 
 ## Post 2
 **Date:** 2026-05-24
+
 **URL:** https://www.linkedin.com/posts/laraacostar_i-keep-on-saying-this-repeat-yourself-please-activity-7460651322695028736-xuGa/
 
 **Why selected:** Consistency builds reputation on Linkedin.
@@ -78,6 +80,7 @@ Join here: https://lnkd.in/evc_cVyd
 
 ## Post 3
 **Date:** 2026-05-24
+
 **URL:** https://www.linkedin.com/posts/laraacostar_if-you-want-high-ticket-clients-from-your-share-7454839644791402497-rRVa/
 
 **Why selected:** Fundamental rules to get high-ticket clients on Linkedin.
