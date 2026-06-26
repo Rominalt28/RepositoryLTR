@@ -36,7 +36,7 @@ All experts selected based on three criteria: (1) they actively practice what th
 - **Followers:** 90K+
 - **Focus:** Zero-click content strategy, B2B audience research, content distribution
 - **Why selected:** VP Marketing at SparkToro. Coined the concept of "zero-click content" — content designed to deliver full value without requiring a click — which is now the dominant philosophy for LinkedIn organic reach. Essential for understanding how the LinkedIn algorithm actually rewards content in 2024–2025.
-- **Content collected:** `/linkedin-posts/amanda-natividad/`
+- **Content collected:** `/linkedin-posts/amanda-natividad/`, `/youtube-transcripts/amanda-natividad/`
 
 ---
 
@@ -54,7 +54,7 @@ All experts selected based on three criteria: (1) they actively practice what th
 - **Followers:** 50K+
 - **Focus:** B2B demand generation, dark social, LinkedIn as pipeline driver
 - **Why selected:** CEO of Refine Labs, the agency that introduced "dark social" to the B2B SaaS marketing conversation. Her content covers how organic LinkedIn activity drives pipeline in ways traditional attribution can't measure — critical context for any B2B SaaS content strategy.
-- **Content collected:** `/linkedin-posts/megan-bowen/`, `/youtube-transcripts/megan-bowen/`
+- **Content collected:** `/linkedin-posts/megan-bowen/`
 
 ---
 
@@ -63,7 +63,7 @@ All experts selected based on three criteria: (1) they actively practice what th
 - **Followers:** 30K+
 - **Focus:** SaaS product positioning, LinkedIn messaging, homepage and content clarity
 - **Why selected:** Co-founder of Fletch PMM. His LinkedIn content is some of the most tactically specific on the platform for B2B SaaS — every post diagrams exactly how to position a SaaS product and translate that positioning into content. Smaller following than others on this list but exceptionally high signal-to-noise ratio.
-- **Content collected:** `/linkedin-posts/anthony-pierri/`
+- **Content collected:** `/linkedin-posts/anthony-pierri/`, `/youtube-transcripts/anthony-pierri/`
 
 ---
 
