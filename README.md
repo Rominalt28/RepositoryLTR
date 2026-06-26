@@ -79,7 +79,7 @@ Both Claude Code and Codex are successfully installed and running in Cursor IDE.
 
 **LinkedIn Organic Content Strategy for B2B SaaS**
 
-Chosen because LinkedIn is the highest-ROI organic channel for B2B SaaS companies, and organic content is increasingly replacing ads as the primary pipeline driver. 
+Chosen because LinkedIn is the highest-ROI organic channel for B2B SaaS companies, and organic content is increasingly replacing paid ads as the primary pipeline driver. This topic sits at the intersection of content strategy, personal branding, and demand generation — three areas I work in daily as a freelance digital marketing specialist.
 
 ## What This Research Covers
 
@@ -113,12 +113,6 @@ A curated collection of content from 10 practitioners who actively build and tea
   sources.md                    # Full expert list with annotations
   /linkedin-posts/              # Recent posts organized by author
   /youtube-transcripts/         # Video transcripts organized by creator
-  /other/                       # Podcast excerpts, newsletters, additional materials
+  /other/                       # Additional materials
 ```
 
-## Status
-
-- [x] Expert selection complete
-- [ ] LinkedIn posts collected
-- [ ] YouTube transcripts collected
-- [ ] Additional materials gathered
